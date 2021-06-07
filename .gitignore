@@ -1,0 +1,4 @@
+#adding the exentions to the ignore file
+*.exe
+*.o
+*.jar
